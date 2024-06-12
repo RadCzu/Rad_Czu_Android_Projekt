@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AD_Gdynia</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_locations">Wszystkie lokalizacje</string>
+    <string name="closest_location">Najbliższa lokalizacja</string>
+    <string name="topbar_title">Ciekawe miejsca w Gdyni</string>
+    <string name="mark_location">Tutaj!</string>
+    <string name="show_location">Pokaż na mapie</string>
+</resources>
